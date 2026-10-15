@@ -14,6 +14,12 @@
 
 STOQ связывает работу с продуктами и работу с блюдами. Поставка пополняет складские партии, состав блюда определяет расход ингредиентов, а остатки влияют на доступность меню. Администратор видит статистику и действия сотрудников, кладовщик работает с поставками и инвентаризацией, официант — с заказами.
 
+## Список участников и роли
+
+<p align="center">
+  <img src="screens/MissClickTeam.png" alt="Команда Miss Click" />
+</p>
+
 ## Возможности
 
 | Раздел            | Что можно сделать                                                                                           |
@@ -214,3 +220,59 @@ npm run test:telegram
 ```
 
 Интеграционные проверки backend требуют отдельно настроенных тестовых БД и брокера. Для обычной работы клиентов прямой доступ к PostgreSQL не нужен — они обращаются к Gateway.
+
+## Скриншоты
+
+### Веб-приложение
+
+**Аналитика и склад**
+
+<p>
+  <a href="screens/web/analytics.png"><img src="screens/web/analytics.png" width="49%" alt="STOQ: дашборд с выручкой, дефицитом и сроками годности" /></a>
+  <a href="screens/web/product-exsist.png"><img src="screens/web/product-exsist.png" width="49%" alt="STOQ: складские продукты и остатки" /></a>
+</p>
+
+**Поставки и инвентаризация**
+
+<p>
+  <a href="screens/web/supply.png"><img src="screens/web/supply.png" width="49%" alt="STOQ: список поставок" /></a>
+  <a href="screens/web/inventory.png"><img src="screens/web/inventory.png" width="49%" alt="STOQ: проведение инвентаризации" /></a>
+</p>
+
+**Блюда и заказы**
+
+<p>
+  <a href="screens/web/dishes.png"><img src="screens/web/dishes.png" width="49%" alt="STOQ: каталог блюд" /></a>
+  <a href="screens/web/orders.png"><img src="screens/web/orders.png" width="49%" alt="STOQ: таблица заказов" /></a>
+</p>
+
+**Зависимости ингредиентов и журнал**
+
+<p>
+  <a href="screens/web/graph1.png"><img src="screens/web/graph1.png" width="49%" alt="STOQ: граф связей продуктов и блюд" /></a>
+  <a href="screens/web/logs.png"><img src="screens/web/logs.png" width="49%" alt="STOQ: журнал действий сотрудников" /></a>
+</p>
+
+[Все скриншоты веб-приложения](screens/web)
+
+### Android-приложение
+
+**Дашборд, склад, поставки и распознавание УПД**
+
+<p>
+  <a href="screens/mobile/01-dashboard.png"><img src="screens/mobile/01-dashboard.png" width="24%" alt="Android: дашборд" /></a>
+  <a href="screens/mobile/02-inventory.png"><img src="screens/mobile/02-inventory.png" width="24%" alt="Android: склад" /></a>
+  <a href="screens/mobile/06-supplies.png"><img src="screens/mobile/06-supplies.png" width="24%" alt="Android: поставки" /></a>
+  <a href="screens/mobile/25-supply-scan.png"><img src="screens/mobile/25-supply-scan.png" width="24%" alt="Android: сканирование УПД" /></a>
+</p>
+
+**Заказы, блюда, стоп-лист и команда**
+
+<p>
+  <a href="screens/mobile/09-orders.png"><img src="screens/mobile/09-orders.png" width="24%" alt="Android: заказы" /></a>
+  <a href="screens/mobile/12-dishes.png"><img src="screens/mobile/12-dishes.png" width="24%" alt="Android: блюда" /></a>
+  <a href="screens/mobile/13-stop-list.png"><img src="screens/mobile/13-stop-list.png" width="24%" alt="Android: стоп-лист" /></a>
+  <a href="screens/mobile/19-admin-employees.png"><img src="screens/mobile/19-admin-employees.png" width="24%" alt="Android: управление сотрудниками" /></a>
+</p>
+
+[Все скриншоты Android-приложения](screens/mobile)
