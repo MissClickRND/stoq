@@ -90,57 +90,156 @@ git commit -m "chore: update application submodules"
 
 ### Веб-приложение
 
+**Авторизация**
+
+<p>
+  <a href="screens/web/auth.png"><img src="screens/web/auth.png" width="49%" alt="Веб-приложение: Авторизация — auth" /></a>
+  <a href="screens/web/auth2.png"><img src="screens/web/auth2.png" width="49%" alt="Веб-приложение: Авторизация — auth2" /></a>
+</p>
+
+<p>
+  <a href="screens/web/auth3.png"><img src="screens/web/auth3.png" width="49%" alt="Веб-приложение: Авторизация — auth3" /></a>
+</p>
+
 **Аналитика и склад**
 
 <p>
-  <a href="screens/web/analytics.png"><img src="screens/web/analytics.png" width="49%" alt="STOQ: дашборд с выручкой, дефицитом и сроками годности" /></a>
-  <a href="screens/web/product-exsist.png"><img src="screens/web/product-exsist.png" width="49%" alt="STOQ: складские продукты и остатки" /></a>
+  <a href="screens/web/analytics.png"><img src="screens/web/analytics.png" width="49%" alt="Веб-приложение: Аналитика и склад — analytics" /></a>
+  <a href="screens/web/product-exsist.png"><img src="screens/web/product-exsist.png" width="49%" alt="Веб-приложение: Аналитика и склад — product-exsist" /></a>
 </p>
-
-**Поставки и инвентаризация**
 
 <p>
-  <a href="screens/web/supply.png"><img src="screens/web/supply.png" width="49%" alt="STOQ: список поставок" /></a>
-  <a href="screens/web/inventory.png"><img src="screens/web/inventory.png" width="49%" alt="STOQ: проведение инвентаризации" /></a>
+  <a href="screens/web/detailProduct.png"><img src="screens/web/detailProduct.png" width="49%" alt="Веб-приложение: Аналитика и склад — detailProduct" /></a>
+  <a href="screens/web/inventory.png"><img src="screens/web/inventory.png" width="49%" alt="Веб-приложение: Аналитика и склад — inventory" /></a>
 </p>
 
-**Блюда и заказы**
+**Поставки**
 
 <p>
-  <a href="screens/web/dishes.png"><img src="screens/web/dishes.png" width="49%" alt="STOQ: каталог блюд" /></a>
-  <a href="screens/web/orders.png"><img src="screens/web/orders.png" width="49%" alt="STOQ: таблица заказов" /></a>
+  <a href="screens/web/supply.png"><img src="screens/web/supply.png" width="49%" alt="Веб-приложение: Поставки — supply" /></a>
+  <a href="screens/web/createSupply.png"><img src="screens/web/createSupply.png" width="49%" alt="Веб-приложение: Поставки — createSupply" /></a>
 </p>
-
-**Зависимости ингредиентов и журнал**
 
 <p>
-  <a href="screens/web/graph1.png"><img src="screens/web/graph1.png" width="49%" alt="STOQ: граф связей продуктов и блюд" /></a>
-  <a href="screens/web/logs.png"><img src="screens/web/logs.png" width="49%" alt="STOQ: журнал действий сотрудников" /></a>
+  <a href="screens/web/detailSupply.png"><img src="screens/web/detailSupply.png" width="49%" alt="Веб-приложение: Поставки — detailSupply" /></a>
 </p>
 
-[Все скриншоты веб-приложения](screens/web)
+**Блюда и доступность меню**
+
+<p>
+  <a href="screens/web/dishes.png"><img src="screens/web/dishes.png" width="49%" alt="Веб-приложение: Блюда и доступность меню — dishes" /></a>
+  <a href="screens/web/dish.png"><img src="screens/web/dish.png" width="49%" alt="Веб-приложение: Блюда и доступность меню — dish" /></a>
+</p>
+
+<p>
+  <a href="screens/web/stoplist.png"><img src="screens/web/stoplist.png" width="49%" alt="Веб-приложение: Блюда и доступность меню — stoplist" /></a>
+  <a href="screens/web/recommendation.png"><img src="screens/web/recommendation.png" width="49%" alt="Веб-приложение: Блюда и доступность меню — recommendation" /></a>
+</p>
+
+**Граф зависимостей**
+
+<p>
+  <a href="screens/web/graph1.png"><img src="screens/web/graph1.png" width="49%" alt="Веб-приложение: Граф зависимостей — graph1" /></a>
+  <a href="screens/web/graph2.png"><img src="screens/web/graph2.png" width="49%" alt="Веб-приложение: Граф зависимостей — graph2" /></a>
+</p>
+
+**Заказы**
+
+<p>
+  <a href="screens/web/orders.png"><img src="screens/web/orders.png" width="49%" alt="Веб-приложение: Заказы — orders" /></a>
+  <a href="screens/web/newOrder.png"><img src="screens/web/newOrder.png" width="49%" alt="Веб-приложение: Заказы — newOrder" /></a>
+</p>
+
+**Администрирование и журнал**
+
+<p>
+  <a href="screens/web/admin1.png"><img src="screens/web/admin1.png" width="49%" alt="Веб-приложение: Администрирование и журнал — admin1" /></a>
+  <a href="screens/web/admin2.png"><img src="screens/web/admin2.png" width="49%" alt="Веб-приложение: Администрирование и журнал — admin2" /></a>
+</p>
+
+<p>
+  <a href="screens/web/logs.png"><img src="screens/web/logs.png" width="49%" alt="Веб-приложение: Администрирование и журнал — logs" /></a>
+</p>
 
 ### Android-приложение
 
-**Дашборд, склад, поставки и распознавание УПД**
+**Аналитика**
 
 <p>
-  <a href="screens/mobile/01-dashboard.png"><img src="screens/mobile/01-dashboard.png" width="24%" alt="Android: дашборд" /></a>
-  <a href="screens/mobile/02-inventory.png"><img src="screens/mobile/02-inventory.png" width="24%" alt="Android: склад" /></a>
-  <a href="screens/mobile/06-supplies.png"><img src="screens/mobile/06-supplies.png" width="24%" alt="Android: поставки" /></a>
-  <a href="screens/mobile/25-supply-scan.png"><img src="screens/mobile/25-supply-scan.png" width="24%" alt="Android: сканирование УПД" /></a>
+  <a href="screens/mobile/01-dashboard.png"><img src="screens/mobile/01-dashboard.png" width="24%" alt="Android-приложение: Аналитика — 01-dashboard" /></a>
+  <a href="screens/mobile/22-dashboard-metrics.png"><img src="screens/mobile/22-dashboard-metrics.png" width="24%" alt="Android-приложение: Аналитика — 22-dashboard-metrics" /></a>
+  <a href="screens/mobile/23-dashboard-expiry.png"><img src="screens/mobile/23-dashboard-expiry.png" width="24%" alt="Android-приложение: Аналитика — 23-dashboard-expiry" /></a>
 </p>
 
-**Заказы, блюда, стоп-лист и команда**
+**Склад и инвентаризация**
 
 <p>
-  <a href="screens/mobile/09-orders.png"><img src="screens/mobile/09-orders.png" width="24%" alt="Android: заказы" /></a>
-  <a href="screens/mobile/12-dishes.png"><img src="screens/mobile/12-dishes.png" width="24%" alt="Android: блюда" /></a>
-  <a href="screens/mobile/13-stop-list.png"><img src="screens/mobile/13-stop-list.png" width="24%" alt="Android: стоп-лист" /></a>
-  <a href="screens/mobile/19-admin-employees.png"><img src="screens/mobile/19-admin-employees.png" width="24%" alt="Android: управление сотрудниками" /></a>
+  <a href="screens/mobile/02-inventory.png"><img src="screens/mobile/02-inventory.png" width="24%" alt="Android-приложение: Склад и инвентаризация — 02-inventory" /></a>
+  <a href="screens/mobile/03-product-details.png"><img src="screens/mobile/03-product-details.png" width="24%" alt="Android-приложение: Склад и инвентаризация — 03-product-details" /></a>
+  <a href="screens/mobile/04-add-product.png"><img src="screens/mobile/04-add-product.png" width="24%" alt="Android-приложение: Склад и инвентаризация — 04-add-product" /></a>
+  <a href="screens/mobile/05-inventory-check.png"><img src="screens/mobile/05-inventory-check.png" width="24%" alt="Android-приложение: Склад и инвентаризация — 05-inventory-check" /></a>
 </p>
 
-[Все скриншоты Android-приложения](screens/mobile)
+<p>
+  <a href="screens/mobile/24-inventory-list.png"><img src="screens/mobile/24-inventory-list.png" width="24%" alt="Android-приложение: Склад и инвентаризация — 24-inventory-list" /></a>
+</p>
+
+**Поставки и распознавание УПД**
+
+<p>
+  <a href="screens/mobile/06-supplies.png"><img src="screens/mobile/06-supplies.png" width="24%" alt="Android-приложение: Поставки и распознавание УПД — 06-supplies" /></a>
+  <a href="screens/mobile/07-supply-details.png"><img src="screens/mobile/07-supply-details.png" width="24%" alt="Android-приложение: Поставки и распознавание УПД — 07-supply-details" /></a>
+  <a href="screens/mobile/08-supply-drafts.png"><img src="screens/mobile/08-supply-drafts.png" width="24%" alt="Android-приложение: Поставки и распознавание УПД — 08-supply-drafts" /></a>
+  <a href="screens/mobile/25-supply-scan.png"><img src="screens/mobile/25-supply-scan.png" width="24%" alt="Android-приложение: Поставки и распознавание УПД — 25-supply-scan" /></a>
+</p>
+
+<p>
+  <a href="screens/mobile/26-new-supply.png"><img src="screens/mobile/26-new-supply.png" width="24%" alt="Android-приложение: Поставки и распознавание УПД — 26-new-supply" /></a>
+</p>
+
+**Заказы**
+
+<p>
+  <a href="screens/mobile/09-orders.png"><img src="screens/mobile/09-orders.png" width="24%" alt="Android-приложение: Заказы — 09-orders" /></a>
+  <a href="screens/mobile/10-order-details.png"><img src="screens/mobile/10-order-details.png" width="24%" alt="Android-приложение: Заказы — 10-order-details" /></a>
+  <a href="screens/mobile/11-new-order.png"><img src="screens/mobile/11-new-order.png" width="24%" alt="Android-приложение: Заказы — 11-new-order" /></a>
+  <a href="screens/mobile/27-order-drafts.png"><img src="screens/mobile/27-order-drafts.png" width="24%" alt="Android-приложение: Заказы — 27-order-drafts" /></a>
+</p>
+
+<p>
+  <a href="screens/mobile/28-order-dish-picker.png"><img src="screens/mobile/28-order-dish-picker.png" width="24%" alt="Android-приложение: Заказы — 28-order-dish-picker" /></a>
+</p>
+
+**Блюда и доступность меню**
+
+<p>
+  <a href="screens/mobile/12-dishes.png"><img src="screens/mobile/12-dishes.png" width="24%" alt="Android-приложение: Блюда и доступность меню — 12-dishes" /></a>
+  <a href="screens/mobile/13-stop-list.png"><img src="screens/mobile/13-stop-list.png" width="24%" alt="Android-приложение: Блюда и доступность меню — 13-stop-list" /></a>
+  <a href="screens/mobile/14-recommendations.png"><img src="screens/mobile/14-recommendations.png" width="24%" alt="Android-приложение: Блюда и доступность меню — 14-recommendations" /></a>
+  <a href="screens/mobile/15-dish-details.png"><img src="screens/mobile/15-dish-details.png" width="24%" alt="Android-приложение: Блюда и доступность меню — 15-dish-details" /></a>
+</p>
+
+<p>
+  <a href="screens/mobile/16-dish-ingredients.png"><img src="screens/mobile/16-dish-ingredients.png" width="24%" alt="Android-приложение: Блюда и доступность меню — 16-dish-ingredients" /></a>
+  <a href="screens/mobile/17-add-dish.png"><img src="screens/mobile/17-add-dish.png" width="24%" alt="Android-приложение: Блюда и доступность меню — 17-add-dish" /></a>
+</p>
+
+**Заведение, команда и профиль**
+
+<p>
+  <a href="screens/mobile/18-admin-restaurant.png"><img src="screens/mobile/18-admin-restaurant.png" width="24%" alt="Android-приложение: Заведение, команда и профиль — 18-admin-restaurant" /></a>
+  <a href="screens/mobile/19-admin-employees.png"><img src="screens/mobile/19-admin-employees.png" width="24%" alt="Android-приложение: Заведение, команда и профиль — 19-admin-employees" /></a>
+  <a href="screens/mobile/20-admin-invitations.png"><img src="screens/mobile/20-admin-invitations.png" width="24%" alt="Android-приложение: Заведение, команда и профиль — 20-admin-invitations" /></a>
+  <a href="screens/mobile/21-profile.png"><img src="screens/mobile/21-profile.png" width="24%" alt="Android-приложение: Заведение, команда и профиль — 21-profile" /></a>
+</p>
+
+**Вход и регистрация**
+
+<p>
+  <a href="screens/mobile/29-sign-in.png"><img src="screens/mobile/29-sign-in.png" width="24%" alt="Android-приложение: Вход и регистрация — 29-sign-in" /></a>
+  <a href="screens/mobile/30-register-restaurant.png"><img src="screens/mobile/30-register-restaurant.png" width="24%" alt="Android-приложение: Вход и регистрация — 30-register-restaurant" /></a>
+  <a href="screens/mobile/31-register-employee.png"><img src="screens/mobile/31-register-employee.png" width="24%" alt="Android-приложение: Вход и регистрация — 31-register-employee" /></a>
+</p>
 
 ## Запуск
 
@@ -220,59 +319,3 @@ npm run test:telegram
 ```
 
 Интеграционные проверки backend требуют отдельно настроенных тестовых БД и брокера. Для обычной работы клиентов прямой доступ к PostgreSQL не нужен — они обращаются к Gateway.
-
-## Скриншоты
-
-### Веб-приложение
-
-**Аналитика и склад**
-
-<p>
-  <a href="screens/web/analytics.png"><img src="screens/web/analytics.png" width="49%" alt="STOQ: дашборд с выручкой, дефицитом и сроками годности" /></a>
-  <a href="screens/web/product-exsist.png"><img src="screens/web/product-exsist.png" width="49%" alt="STOQ: складские продукты и остатки" /></a>
-</p>
-
-**Поставки и инвентаризация**
-
-<p>
-  <a href="screens/web/supply.png"><img src="screens/web/supply.png" width="49%" alt="STOQ: список поставок" /></a>
-  <a href="screens/web/inventory.png"><img src="screens/web/inventory.png" width="49%" alt="STOQ: проведение инвентаризации" /></a>
-</p>
-
-**Блюда и заказы**
-
-<p>
-  <a href="screens/web/dishes.png"><img src="screens/web/dishes.png" width="49%" alt="STOQ: каталог блюд" /></a>
-  <a href="screens/web/orders.png"><img src="screens/web/orders.png" width="49%" alt="STOQ: таблица заказов" /></a>
-</p>
-
-**Зависимости ингредиентов и журнал**
-
-<p>
-  <a href="screens/web/graph1.png"><img src="screens/web/graph1.png" width="49%" alt="STOQ: граф связей продуктов и блюд" /></a>
-  <a href="screens/web/logs.png"><img src="screens/web/logs.png" width="49%" alt="STOQ: журнал действий сотрудников" /></a>
-</p>
-
-[Все скриншоты веб-приложения](screens/web)
-
-### Android-приложение
-
-**Дашборд, склад, поставки и распознавание УПД**
-
-<p>
-  <a href="screens/mobile/01-dashboard.png"><img src="screens/mobile/01-dashboard.png" width="24%" alt="Android: дашборд" /></a>
-  <a href="screens/mobile/02-inventory.png"><img src="screens/mobile/02-inventory.png" width="24%" alt="Android: склад" /></a>
-  <a href="screens/mobile/06-supplies.png"><img src="screens/mobile/06-supplies.png" width="24%" alt="Android: поставки" /></a>
-  <a href="screens/mobile/25-supply-scan.png"><img src="screens/mobile/25-supply-scan.png" width="24%" alt="Android: сканирование УПД" /></a>
-</p>
-
-**Заказы, блюда, стоп-лист и команда**
-
-<p>
-  <a href="screens/mobile/09-orders.png"><img src="screens/mobile/09-orders.png" width="24%" alt="Android: заказы" /></a>
-  <a href="screens/mobile/12-dishes.png"><img src="screens/mobile/12-dishes.png" width="24%" alt="Android: блюда" /></a>
-  <a href="screens/mobile/13-stop-list.png"><img src="screens/mobile/13-stop-list.png" width="24%" alt="Android: стоп-лист" /></a>
-  <a href="screens/mobile/19-admin-employees.png"><img src="screens/mobile/19-admin-employees.png" width="24%" alt="Android: управление сотрудниками" /></a>
-</p>
-
-[Все скриншоты Android-приложения](screens/mobile)
