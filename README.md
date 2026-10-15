@@ -249,3 +249,19 @@ npm run test:telegram
 </p>
 
 [Все скриншоты Android-приложения](screens/mobile)
+
+
+## Список участников и роли
+
+Ниже список сформирован по фактической активности в репозиториях (по истории коммитов):
+
+| Участник | Роль в проекте |
+|----------|----------------|
+| [Артем Кирюшин](https://github.com/Lyaguh21) | Team Lead, Fullstack Developer |
+| [Алиса Завеса](https://github.com/lisazavesa) | Backend Developer |
+| [Владислав Ткаличев](https://github.com/Rrailee) | Backend Developer |
+| [Светличный Никита](https://github.com/bybuss) | Mobile Developer |
+
+<p align="center">
+  <img src="screens/MissClickTeam.png" alt="Команда Miss Click" />
+</p>
