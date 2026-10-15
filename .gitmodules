@@ -1,0 +1,12 @@
+[submodule "stoq-frontend"]
+	path = stoq-frontend
+	url = https://github.com/MissClickRND/stoq-frontend.git
+	branch = main
+[submodule "stoq-backend"]
+	path = stoq-backend
+	url = https://github.com/MissClickRND/stoq-backend.git
+	branch = main
+[submodule "stoq-mobile"]
+	path = stoq-mobile
+	url = https://github.com/MissClickRND/stoq-mobile.git
+	branch = main
